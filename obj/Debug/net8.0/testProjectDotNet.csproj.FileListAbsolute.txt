@@ -1,0 +1,14 @@
+/home/web-developer/projects/dotnet/testProjectDotNet/bin/Debug/net8.0/testProjectDotNet
+/home/web-developer/projects/dotnet/testProjectDotNet/bin/Debug/net8.0/testProjectDotNet.deps.json
+/home/web-developer/projects/dotnet/testProjectDotNet/bin/Debug/net8.0/testProjectDotNet.runtimeconfig.json
+/home/web-developer/projects/dotnet/testProjectDotNet/bin/Debug/net8.0/testProjectDotNet.dll
+/home/web-developer/projects/dotnet/testProjectDotNet/bin/Debug/net8.0/testProjectDotNet.pdb
+/home/web-developer/projects/dotnet/testProjectDotNet/obj/Debug/net8.0/testProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/web-developer/projects/dotnet/testProjectDotNet/obj/Debug/net8.0/testProjectDotNet.AssemblyInfoInputs.cache
+/home/web-developer/projects/dotnet/testProjectDotNet/obj/Debug/net8.0/testProjectDotNet.AssemblyInfo.cs
+/home/web-developer/projects/dotnet/testProjectDotNet/obj/Debug/net8.0/testProjectDotNet.csproj.CoreCompileInputs.cache
+/home/web-developer/projects/dotnet/testProjectDotNet/obj/Debug/net8.0/testProjectDotNet.dll
+/home/web-developer/projects/dotnet/testProjectDotNet/obj/Debug/net8.0/refint/testProjectDotNet.dll
+/home/web-developer/projects/dotnet/testProjectDotNet/obj/Debug/net8.0/testProjectDotNet.pdb
+/home/web-developer/projects/dotnet/testProjectDotNet/obj/Debug/net8.0/testProjectDotNet.genruntimeconfig.cache
+/home/web-developer/projects/dotnet/testProjectDotNet/obj/Debug/net8.0/ref/testProjectDotNet.dll
